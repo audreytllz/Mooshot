@@ -23,4 +23,4 @@ part visible :
 ## Representation in real time
 
 ![image3](image/image3.png)
-
+<!--Not captor is sensor -->
